@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express,React**
 
-- 💬 Ask me about **JS,JQuery,Nodejs,C++,DSA,AI and ML**
+- 💬 I am working on **JS,JQuery,Nodejs,C++,DSA,AI and ML**
 
 - 📫 How to reach me **rishiraj.nitd@outlook.com**
 
