@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajrishi22&label=Profile%20views&color=0e75b6&style=flat" alt="rajrishi22" /> </p>
 
-- 🔭 I’m currently working on **Alumni Network**
-
 - 🌱 I’m currently learning **Express,React**
 
 - 💬 Ask me about **JS,JQuery,Nodejs,C++,DSA,AI and ML**
 
-- 📫 How to reach me **211220044@nitdelhi.ac.in**
+- 📫 How to reach me **rishiraj.nitd@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gPvJoKK7KuLYjxZ7I97d5uam9-Jf2shv/view?usp=drive_link](https://drive.google.com/file/d/1gPvJoKK7KuLYjxZ7I97d5uam9-Jf2shv/view?usp=drive_link)
 
