@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Express,React**
 
-- 💬 I am working on **JS,JQuery,Nodejs,C++,DSA,AI and ML**
+- 💬 I am working on **JS,C++,DSA,AI and ML**
 
 - 📫 How to reach me **rishiraj.nitd@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gPvJoKK7KuLYjxZ7I97d5uam9-Jf2shv/view?usp=drive_link](https://drive.google.com/file/d/1gPvJoKK7KuLYjxZ7I97d5uam9-Jf2shv/view?usp=drive_link)
-
-- ⚡ Fun fact **Passionate about devouring captivating stories and bringing imagination to life through sketches in my free time. My GitHub is a canvas of code where creativity meets functionality. 📚✏️ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
